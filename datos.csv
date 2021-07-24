@@ -1,7 +1,7 @@
 orden,seccion,especifico,ico,img1,img2,link1,link2,headline1,headline2,content1,content2,content3,content4,content5
 2,2.Colectivo,1,Fa-pencil-ruler,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-10,,aaaaa,headline2,content1,content2,content3,content4,content5
 3,2.Colectivo,2,Fa-pencil-ruler,static/img/_MG_7880-117.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-9,,bbbb,headline2,content1,content2,content3,content4,content5
-4,3.Smart,1,Fa-pencil-ruler,static/img/_MG_7880-117.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-8,,ddd,headline2,content1,content2,content3,content4,content5
+4,3.Smart,1,Fa-pencil-ruler,static/img/_MG_7880-117.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-8,,ddd,nustras vidas sib kis rios que vana a dar a la mar,content1,content2,content3,content4,content5
 5,3.Smart,2,Fa-pencil-ruler,static/img/2021-07-23_17-41.png,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-7,,ssssss,headline2,content1,content2,content3,content4,content5
 6,3.Smart,1,Fa-pencil-ruler,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-6,,gdfgsdggggg,headline2,content1,content2,content3,content4,content5
 7,4.Servicios,2,Fa-pencil-ruler,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-5,,ESTUDIO GRATUITO,headline2,content1,content2,content3,content4,content5
@@ -24,9 +24,9 @@ orden,seccion,especifico,ico,img1,img2,link1,link2,headline1,headline2,content1,
 0,0.Inicio,1,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co-2,,EV Charging Station Experts,headline2,content1,content2,content3,content4,content5
 0,0.Inicio,2,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://www.esios.ree.es/es/insertado/generacion-libre-co1,,EV Charging Station Experts,headline2,content1,content2,content3,content4,content5
 ,,,,,,,,,,,,,,
-20,Contacto,2,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://docs.google.com/forms/d/e/1FAIpQLSeYnRLm2rGb6pj3dSzqIePjXQiiDxheanXSsru-ApivowTfsA/viewform?embedded=true,,,headline2,content1,content2,content3,content4,content5
-20,Contacto,2,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://docs.google.com/forms/d/e/1FAIpQLSeYnRLm2rGb6pj3dSzqIePjXQiiDxheanXSsru-ApivowTfsA/viewform?embedded=true,,,headline2,content1,content2,content3,content4,content5
-20,Contacto,2,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://docs.google.com/forms/d/e/1FAIpQLSeYnRLm2rGb6pj3dSzqIePjXQiiDxheanXSsru-ApivowTfsA/viewform?embedded=true,,,headline2,content1,content2,content3,content4,content5
+20,Contacto,2,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://docs.google.com/forms/d/e/1FAIpQLSeYnRLm2rGb6pj3dSzqIePjXQiiDxheanXSsru-ApivowTfsA/viewform?embedded=true,,,,,,,,
+20,Contacto,2,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://docs.google.com/forms/d/e/1FAIpQLSeYnRLm2rGb6pj3dSzqIePjXQiiDxheanXSsru-ApivowTfsA/viewform?embedded=true,,,,,,,,
+20,Contacto,2,Fa-handshake,static/img/electric-car-4381728_640.jpg,static/img/2021-07-23_17-41.png,https://docs.google.com/forms/d/e/1FAIpQLSeYnRLm2rGb6pj3dSzqIePjXQiiDxheanXSsru-ApivowTfsA/viewform?embedded=true,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,2,,,,,,,,,,,,
 ,,1,,,,,,,,,,,,
