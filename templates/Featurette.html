@@ -1,0 +1,56 @@
+<style>
+    /* Featurettes
+------------------------- */
+
+    .featurette-divider {
+        margin: 5rem 0;
+        /* Space out the Bootstrap <hr> more */
+    }
+
+    /* Thin out the marketing headings */
+
+    /* Thin out the marketing headings */
+    .featurette-heading {
+        font-size: 50px;
+        font-weight: 300;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+</style>
+
+
+
+<!-- START THE FEATURETTES -->
+<section>
+
+    {% for v in datos %}
+
+
+    <br><br>
+    <div class="featurette ">
+        <a href="#!" class="link-dark" onclick="document.getElementById('boton_Modal_iframe_{{v.n}}').click();">
+
+            <!-- <hr class="featurette-divider"> -->
+            <br><br><br>
+            <div class="row featurette bg-darkt">
+                <div class="col-md-7  order-md-2">
+                    <h2 class="featurette-heading ">{{v.headline1}}<span class="text-muted">{{v.headline2}}</span></h2>
+                    <p class="lead">{{v.content1}}</p>
+                </div>
+
+                <div class="col-md-5 order-md-{{v.especifico}}">
+
+                    <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                        width="100%" height="100%" fill="#fff" src="{{v.img1}}" alt="Second slide"
+                        preserveAspectRatio="xMidYMid slice" focusable="false">
+                </div>
+            </div>
+        </a>
+    </div>
+
+    {% endfor %}
+    {% set myBool = not myBool %}
+
+</section>
+
+<!-- /END THE FEATURETTES -->
