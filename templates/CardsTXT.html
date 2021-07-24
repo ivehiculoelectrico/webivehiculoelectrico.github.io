@@ -1,20 +1,23 @@
-
-
-
 <section>
     {% for v in datos %}
-    <div id="CardsTXT" class="card bg-dark text-white">
-        <img style="filter: brightness(50%)" src="{{v.img1}}" class="card-img" alt="..." />
-        <div class="card-img-overlay">
-            <br><br><br>
-            <h1 class="card-title">{{v.headline1}}</h1>
+    <!-- <div id="CardsTXT" class="card bg-dark text-white"> -->
+    <div id="CardsTXT" class="card">
+        <a href="#!" class="link-dark" onclick="document.getElementById('boton_Modal_iframe_{{v.n}}').click();">
 
-            <h2 class="card-title">{{v.headline2}}</h2>
-            <p class="card-text">
-                {{v.content1}}
-            </p>
-            <p class="card-text">Last updated 3 mins ago</p>
-        </div>
-    </div> 
+            <!-- <img style="filter: brightness(50%)" src="{{v.img1}}" class="card-img" alt="..." /> -->
+            <img style="filter: brightness(100%)" src="{{v.img1}}" class="card-img" alt="..." />
+            <div class="card-img-overlay">
+                <br><br><br>
+                <h1 class="card-title">{{v.headline1}}</h1>
+
+                <h2 class="card-title">{{v.headline2}}</h2>
+                <p class="card-text">
+                    {{v.content1}}
+                </p>
+                <p class="card-text">Last updated 3 mins ago</p>
+            </div>
+        </a>
+
+    </div>
     {% endfor %}
 </section>
